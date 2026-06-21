@@ -1,0 +1,9 @@
+# Ejecutable
+cviewer
+
+# Objetos compilados
+*.o
+
+# Archivos temporales
+*.tmp
+*.swp
